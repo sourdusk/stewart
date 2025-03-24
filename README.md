@@ -1,6 +1,8 @@
 # Stewart
 A bot that announces when people join or leave Discord voice calls.
 
+Click [https://discord.com/oauth2/authorize?client_id=1353721716089688074](here) to add him to your server!
+
 ## Privacy Policy
 **Privacy Policy**
 
