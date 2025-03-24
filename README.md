@@ -6,7 +6,7 @@ Click [here](https://discord.com/oauth2/authorize?client_id=1353721716089688074)
 ## Privacy Policy
 **Privacy Policy**
 
-This privacy policy applies to the Stuart bot (hereby referred to as "Application") that was created by SourK9 Designs, LLC (hereby referred to as "Service Provider") as an Open Source service. This service is intended for use "AS IS".
+This privacy policy applies to the Stewart bot (hereby referred to as "Application") that was created by SourK9 Designs, LLC (hereby referred to as "Service Provider") as an Open Source service. This service is intended for use "AS IS".
 
 **What information does the Application obtain and how is it used?**
 
